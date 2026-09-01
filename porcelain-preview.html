@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#111313" />
+    <meta name="description" content="根据单张参考照片制作的青花执壶三维重建试样" />
+    <title>青花执壶 · 单图重建试样</title>
+    <script type="module" crossorigin src="./assets/porcelain-DF7gQr44.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/three.module-CScPE-k7.js">
+    <link rel="stylesheet" crossorigin href="./assets/porcelain-yduHpcoo.css">
+  </head>
+  <body>
+    <main id="porcelain-preview">
+      <div id="porcelain-stage"></div>
+      <header class="preview-heading"><p>单图重建试样 · 非文物测绘复刻</p><h1>青花执壶</h1></header>
+      <figure class="source-reference"><img src="./references/porcelain-source.png" alt="用户提供的青花执壶参考照片" /><figcaption>参考图 · 正面可见信息</figcaption></figure>
+      <div class="model-boundary" aria-label="模型史料边界"><span>器形与正面纹样据图</span><span>背面器形按对称关系推定</span></div>
+      <nav class="preview-controls" aria-label="模型查看工具">
+        <button id="toggle-rotation" type="button" aria-pressed="true">暂停旋转</button>
+        <button id="front-view" type="button">回到正面</button>
+        <a href="./models/porcelain-reference.glb" download>下载 GLB</a>
+      </nav>
+    </main>
+  </body>
+</html>
