@@ -6,7 +6,7 @@ This prototype uses the following third-party assets.
 - "Vase - Yuan Dynasty (1271-1368)" from the Art Gallery of Hamilton, scan by Serena Zena Mak Walk for Sari-Sari Xchange, CC BY-NC-SA: https://sketchfab.com/3d-models/a50b38792b264f18af523dc935dae606
 - "Blue and White Chinese Porcelain Jug (1 of 2) AGH" from the Sari-Sari Xchange open asset library: https://github.com/sarisarixchange/SSXAssetLibrary
 - "Ginger" physical-object scan from the Sari-Sari Xchange open asset library: https://github.com/sarisarixchange/SSXAssetLibrary
-- "SingleWhitePearl" is a derivative that retains one pearl body from the CC BY "Pearl necklace" model by poly by Google, via Get3DModels: https://www.get3dmodels.com/art-and-sculptures/pearl-necklace/
+- "Pearl necklace" by poly by Google, CC BY, via Get3DModels. The model contains only a strand of pearls without a box or pendant: https://www.get3dmodels.com/art-and-sculptures/pearl-necklace/
 - "Amethyst Crystal", physical-object photo scan, CC BY: https://sketchfab.com/3d-models/ace99fb589734464bda00687bbcedc6d
 - "Corallium Rubrum" by Septentrion Environnement and LIS, Aix-Marseille University / CNRS, photogrammetry, CC BY 4.0: https://sketchfab.com/3d-models/9bbf54afce7841b38c6585ee0f8d2a59
 - "Large Rug" by SiteScape, a color point scan made at The Metropolitan Museum of Art in New York, CC BY: https://sketchfab.com/3d-models/ac4906ce4d6745c3bd6a4d50110300ae
